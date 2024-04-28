@@ -1,16 +1,11 @@
 # dti_mukrata_app
 
-A new Flutter project.
+Create by Sirichok Boonpheak
 
-## Getting Started
+## Sceen UI
+<img src="https://github.com/KaitoZan/Mukrata_app/assets/144052345/2687a166-54f3-4079-b998-d8d591562365" width="150px">
+<img src="https://github.com/KaitoZan/Mukrata_app/assets/144052345/224d5416-5582-4da2-904b-88ab25b3d1d8" width="150px">
+<img src="https://github.com/KaitoZan/Mukrata_app/assets/144052345/acadc211-87f5-40f0-89e2-7cd8a9af2a6d" width="150px">
+<img src="https://github.com/KaitoZan/Mukrata_app/assets/144052345/29b619c0-eb8a-4c2d-b232-d7693ba2ff89" width="150px">
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
